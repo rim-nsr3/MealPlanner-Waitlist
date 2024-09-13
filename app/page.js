@@ -110,7 +110,6 @@ export default function Home() {
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#services">Services</a></li>
                     <li><a href="#testimonials">Testimonials</a></li>
-                    <li><a href="#clients">Clients</a></li>
                     <li><a href="#pricing">Pricing</a></li>
                   </ul>
                 </nav>
@@ -148,8 +147,8 @@ export default function Home() {
               <div className="col-3">
                 <div className="section-heading">
                   <h3>SUCCESS</h3>
-                  <h2 className="section-title">How We Help You To Sell Your Product</h2>
-                  <p className="section-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!</p>
+                  <h2 className="section-title">How We Help You To Achieve Your Goals</h2>
+                  <p className="section-subtitle">Your journey to a healthier, stronger, and more confident version of yourself starts here. MealPlannerAI is not just a tool—it’s your dedicated partner, guiding you to success every step of the way!</p>
                 </div>
               </div>
 
@@ -158,8 +157,8 @@ export default function Home() {
                 <div className="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.1s">
                   <div className="icon"><i className="fa fa-html5 fa-2x"></i></div>
                   <div className="icon-block-description">
-                    <h4>HTML5 &amp; CSS3</h4>
-                    <p>Has ne tritani atomorum conclusionemque, in dolorum volumus cotidieque eum. At vis choro neglegentur iudico</p>
+                    <h4>Personalized Nutrition Plans</h4>
+                    <p>Imagine having every meal tailored to you. With MealPlannerAI, your goals become reality. Whether you're striving for muscle growth, weight loss, or simply nourishing your body, we craft a plan designed just for you.</p>
                   </div>
                 </div>
                 {/* End of Icon Block */}
@@ -173,8 +172,8 @@ export default function Home() {
                     </div>
                     {/* Icon Block Description */}
                     <div className="icon-block-description">
-                      <h4>Easy to Use</h4>
-                      <p>Cu vero ipsum vim, doctus facilisi sea in. Eam ex falli honestatis repudiandae, sit detracto mediocrem disputationi</p>
+                      <h4>Effortless and Empowering</h4>
+                      <p>We've simplified the process so you can focus on what matters—becoming your best self. With MealPlannerAI’s intuitive interface, staying on track has never been easier. Your progress, your goals, your journey, all laid out clearly for you to follow. You’ve got this, and we’ve got you.</p>
                     </div>
                   </div>
                   {/* End of Icon Block */}
@@ -187,8 +186,8 @@ export default function Home() {
                     </div>
                     {/* Icon Block Description */}
                     <div className="icon-block-description">
-                      <h4>Fully Responsive</h4>
-                      <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro nemore vivendum</p>
+                      <h4>Stress-Free Meal Planning</h4>
+                      <p>No more scrambling to figure out what’s for dinner or worrying about whether your meal fits your goals. MealPlannerAI takes the stress away, offering you delicious, goal-aligned meal options and organized shopping lists. It's like having a personal nutritionist in your pocket, guiding you effortlessly toward success.</p>
                     </div>
                   </div>
                   {/* End of Icon Block */}
@@ -201,8 +200,8 @@ export default function Home() {
                     </div>
                     {/* Icon Block Description */}
                     <div className="icon-block-description">
-                      <h4>Parallax Effect</h4>
-                      <p>Id porro tritani recusabo usu, eum intellegam consequuntur et. Fugit debet ea sit, an pro nemore vivendum</p>
+                      <h4>Your Success, Our Mission</h4>
+                      <p>We believe in your potential, and we know you can achieve greatness. MealPlannerAI helps you stay consistent and accountable, making sure each meal fuels your drive for success. With every recipe, every meal, and every goal hit, you’re not just eating—you’re transforming. Let’s unlock your full potential together.</p>
                     </div>
                   </div>
                   {/* End of Icon Block */}
@@ -216,24 +215,23 @@ export default function Home() {
 
 
         <aside id="gallery" className="row text-center scrollto clearfix" data-featherlight-gallery data-featherlight-filter="a">
-          <a href="images/gallery-images/gallery-image-1.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.1s">
-            <img src="images/gallery-images/gallery-image-1.jpg" alt="Landing Page" />
+          <a href="images/gallery-images/mealprep.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.1s">
+            <img src="images/gallery-images/mealprep.jpg" alt="Landing Page" />
           </a>
-          <a href="images/gallery-images/gallery-image-2.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.3s">
-            <img src="images/gallery-images/gallery-image-2.jpg" alt="Landing Page" />
+          <a href="images/gallery-images/meal2.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.3s">
+            <img src="images/gallery-images/meal2.jpg" alt="Landing Page" />
           </a>
-          <a href="images/gallery-images/gallery-image-3.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.5s">
-            <img src="images/gallery-images/gallery-image-3.jpg" alt="Landing Page" />
+          <a href="images/gallery-images/meal3.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.5s">
+            <img src="images/gallery-images/meal3.jpg" alt="Landing Page" />
           </a>
-          <a href="images/gallery-images/gallery-image-4.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="1.1s">
-            <img src="images/gallery-images/gallery-image-4.jpg" alt="Landing Page" />
+          
+          <a href="images/gallry-images/mealext.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.9s">
+            <img src="images/gallery-images/mealext.jpg" alt="Landing Page" />
           </a>
-          <a href="images/gallry-images/gallery-image-5.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.9s">
-            <img src="images/gallery-images/gallery-image-5.jpg" alt="Landing Page" />
+          <a href="images/gallery-images/mealex.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.7s">
+            <img src="images/gallery-images/mealex.jpg" alt="Landing Page" />
           </a>
-          <a href="images/gallery-images/gallery-image-6.jpg" data-featherlight="image" className="col-3 wow fadeIn" data-wow-delay="0.7s">
-            <img src="images/gallery-images/gallery-image-6.jpg" alt="Landing Page" />
-          </a>
+          
         </aside>
 
 
@@ -245,7 +243,7 @@ export default function Home() {
             <div className="col-3">
               {/* User Testimonial */}
               <blockquote className="testimonial text-right bigtest">
-                <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</q>
+                <q>MealPlannerAI completely changed the way I approach my fitness goals. I’ve never felt more in control of my diet, and the results speak for themselves.</q>
                 <footer>— John Doe, Happy Customer</footer>
               </blockquote>
               {/* End of Testimonial */}
@@ -256,16 +254,16 @@ export default function Home() {
             <div className="col-3">
               <div className="section-heading">
                 <h3>BELIEVING</h3>
-                <h2 className="section-title">Focusing On What Matters Most</h2>
+                <h2 className="section-title">Focusing On What Fuels You</h2>
                 <p className="section-subtitle">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!
+                MealPlannerAI isn't just about eating; it's about fueling your body and mind with the right nutrients to power you through your day.
                 </p>
               </div>
               <p>
-                Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet!
+              Whether you’re looking to lose weight, gain muscle, or simply improve your health, we help you focus on what matters most—living a balanced and fulfilling life!
               </p>
-              <a href="#" data-videoid="UYJ5IjBRlW8" data-videosite="youtube" className="button video link-lightbox">
-                WATCH VIDEO <i className="fa fa-play" aria-hidden="true"></i>
+              <a onClick={handleModalToggle} className="button">
+                Join Waitlist Today 
               </a>
             </div>
             {/* End Content Right Side */}
@@ -288,80 +286,25 @@ export default function Home() {
             {/* User Testimonial */}
             <blockquote className="col-3 testimonial classic">
               <img src="images/user-images/user-1.jpg" alt="User" />
-              <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</q>
+              <q>MealPlannerAI has made healthy eating so much easier for me. I’m hitting my fitness goals without sacrificing flavor, and I’ve never felt better!</q>
               <footer>John Doe - Happy Customer</footer>
             </blockquote>
             {/* End of Testimonial */}
 
             <blockquote className="col-3 testimonial classic">
               <img src="images/user-images/user-2.jpg" alt="User" />
-              <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</q>
+              <q>I used to struggle with staying consistent, but with MealPlannerAI, I have a clear plan every day. It’s helped me stay on track and actually enjoy the process of eating healthy.</q>
               <footer>Roslyn Doe - Happy Customer</footer>
             </blockquote>
 
             <blockquote className="col-3 testimonial classic">
               <img src="images/user-images/user-3.jpg" alt="User" />
-              <q>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</q>
+              <q>As someone with a busy schedule, I needed something that fits into my life. MealPlannerAI has been a game-changer. The personalized meal suggestions save me so much time and energy!</q>
               <footer>Thomas Doe - Happy Customer</footer>
             </blockquote>
           </div>
         </aside>
 
-
-        {/* Clients */}
-        <section id="clients" className="scrollto clearfix">
-          <div className="row clearfix">
-            <div className="col-3">
-              <div className="section-heading">
-                <h3>TRUST</h3>
-                <h2 className="section-title">Companies who use our services</h2>
-                <p className="section-subtitle">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam!
-                </p>
-              </div>
-            </div>
-
-            <div className="col-2-3">
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo1.png" alt="Company" />
-                <div className="client-overlay"><span>Tree</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo2.png" alt="Company" />
-                <div className="client-overlay"><span>Fingerprint</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo3.png" alt="Company" />
-                <div className="client-overlay"><span>The Man</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo4.png" alt="Company" />
-                <div className="client-overlay"><span>Mustache</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo5.png" alt="Company" />
-                <div className="client-overlay"><span>Goat</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo6.png" alt="Company" />
-                <div className="client-overlay"><span>Justice</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo7.png" alt="Company" />
-                <div className="client-overlay"><span>Ball</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo8.png" alt="Company" />
-                <div className="client-overlay"><span>Cold</span></div>
-              </a>
-              <a href="#" className="col-3">
-                <img src="images/company-images/company-logo9.png" alt="Company" />
-                <div className="client-overlay"><span>Cold</span></div>
-              </a>
-            </div>
-          </div>
-        </section>
-        {/* End of Clients */}
 
 
         <section id="pricing" className="secondary-color text-center scrollto clearfix ">
@@ -378,20 +321,20 @@ export default function Home() {
     {/* Pricing Block */}
     <div className="pricing-block col-3 wow fadeInUp" data-wow-delay="0.4s">
       <div className="pricing-block-content">
-        <h3>Personal</h3>
-        <p className="pricing-sub">The standard version</p>
+        <h3>Basic</h3>
+        <p className="pricing-sub">Get Started on Your Health Journey</p>
         <div className="pricing">
-          <div className="price"><span>$</span>19</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+          <div className="price"><span>$</span>0</div>
+          <p>Perfect for beginners looking to dip their toes in meal planning</p>
         </div>
         <ul>
-          <li>5 Downloads</li>
-          <li>2 Extensions</li>
-          <li>Tutorials</li>
-          <li>Forum Support</li>
-          <li>1 year free updates</li>
+          <li>7-Day Meal Plan</li>
+          <li>Basic Recipe Suggestions</li>
+          <li>Limited Access to Nutritional Info</li>
+          <li>Basic Grocery List</li>
+          <li>Email Support Only</li>
         </ul>
-        <a href="#" className="button">BUY TODAY</a>
+        <a href="#" className="button">START FOR FREE</a>
       </div>
     </div>
     {/* End Pricing Block */}
@@ -399,20 +342,20 @@ export default function Home() {
     {/* Pricing Block */}
     <div className="pricing-block featured col-3 wow fadeInUp" data-wow-delay="0.6s">
       <div className="pricing-block-content">
-        <h3>Student</h3>
-        <p className="pricing-sub">Most popular choice</p>
+        <h3>ESSENTIAL</h3>
+        <p className="pricing-sub">Boost Your Nutrition Game</p>
         <div className="pricing">
-          <div className="price"><span>$</span>29</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+          <div className="price"><span>$</span>5</div>
+          <p>For those looking to enhance their diet and meal planning experience</p>
         </div>
         <ul>
-          <li>15 Downloads</li>
-          <li>5 Extensions</li>
-          <li>Tutorials with Files</li>
-          <li>Forum Support</li>
-          <li>2 years free updates</li>
+          <li>14-Day Personalized Meal Plan</li>
+          <li>Full Recipe Suggestions</li>
+          <li>Nutritional Breakdown for Each Meal</li>
+          <li>Advanced Grocery List with Budgeting</li>
+          <li>Access to Community Forum & Weekly Tips</li>
         </ul>
-        <a href="#" className="button">BUY TODAY</a>
+        <a href="#" className="button">GET STARTED FOR $5</a>
       </div>
     </div>
     {/* End Pricing Block */}
@@ -420,20 +363,20 @@ export default function Home() {
     {/* Pricing Block */}
     <div className="pricing-block col-3 wow fadeInUp" data-wow-delay="0.8s">
       <div className="pricing-block-content">
-        <h3>Business</h3>
-        <p className="pricing-sub">For the whole team</p>
+        <h3>PRO</h3>
+        <p className="pricing-sub">Your Ultimate Meal Planning Partner</p>
         <div className="pricing">
-          <div className="price"><span>$</span>49</div>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+          <div className="price"><span>$</span>10</div>
+          <p>Unlock all features to fully customize your meals and hit your goals</p>
         </div>
         <ul>
-          <li>Unlimited Downloads</li>
-          <li>Unlimited Extensions</li>
-          <li>HD Video Tutorials</li>
-          <li>Chat Support</li>
-          <li>Lifetime free updates</li>
+          <li>30-Day Personalized Meal Plan</li>
+          <li>Exclusive Recipe Library</li>
+          <li>Detailed Nutritional Tracking </li>
+          <li>Custom Grocery Lists Tailored to Preferences</li>
+          <li>Live Chat Support</li>
         </ul>
-        <a href="#" className="button">BUY TODAY</a>
+        <a href="#" className="button">GET PRO FOR $10</a>
       </div>
     </div>
     {/* End Pricing Block */}
